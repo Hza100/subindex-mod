@@ -1,0 +1,10 @@
+D:\bak\D\linnet\old\Subind\Subindex\bin\Debug\Subindex.exe.config
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\Subindex.exe
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\Subindex.pdb
+D:\bak\D\linnet\old\Subind\Subindex\bin\Debug\Subindex.exe
+D:\bak\D\linnet\old\Subind\Subindex\bin\Debug\Subindex.pdb
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\ResolveAssemblyReference.cache
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\Subindex.DropDownButton.resources
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\Subindex.Subind.resources
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\Subindex.TimeBaseLine.resources
+D:\bak\D\linnet\old\Subind\Subindex\obj\Debug\Subindex.csproj.GenerateResource.Cache
