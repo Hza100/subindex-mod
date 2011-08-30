@@ -1144,12 +1144,12 @@ namespace Subindex
             this.webSiteLabel.AutoSize = true;
             this.webSiteLabel.BackColor = System.Drawing.Color.Transparent;
             this.webSiteLabel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.webSiteLabel.Location = new System.Drawing.Point(512, 10);
+            this.webSiteLabel.Location = new System.Drawing.Point(400, 10);
             this.webSiteLabel.Name = "webSiteLabel";
             this.webSiteLabel.Size = new System.Drawing.Size(89, 12);
             this.webSiteLabel.TabIndex = 3;
             this.webSiteLabel.TabStop = true;
-            this.webSiteLabel.Tag = "http://blog.csdn.net/redbirdli/category/182219.aspx";
+            this.webSiteLabel.Tag = "http://code.google.com/p/subindex-mod/";
             this.webSiteLabel.Text = "Author WebSite";
             this.webSiteLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.blogLabel_LinkClicked);
             // 
@@ -1163,7 +1163,7 @@ namespace Subindex
             this.blogLabel.Size = new System.Drawing.Size(71, 12);
             this.blogLabel.TabIndex = 2;
             this.blogLabel.TabStop = true;
-            this.blogLabel.Tag = "http://blog.csdn.net/redbirdli";
+            this.blogLabel.Tag = "http://teamo.me/";
             this.blogLabel.Text = "Author Blog";
             this.blogLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.blogLabel_LinkClicked);
             // 

@@ -1,12 +1,11 @@
-SubindexV0.5 Build2010.4.30
+v0.5.1 Build2011.08.31
 Log:
-Open Source to Google Code 2010.4.30
-Set Default Language to English
+Remove watermark
 
 
 
 
-		    火鸟字幕合并器V0.5 Build2006.5.9
+		    火鸟字幕合并器v0.5.1 Build2011.08.31
 
 功能介绍:
 1.合并相同片源不同语种的srt/ssa/ass文本字幕,生成可同时播放的双语字幕;
@@ -28,6 +27,10 @@ Microsoft .NET Framework V1.1
 
 
 版本历史:
+v0.5.1 Build2011.08.31
+1.去除水印
+2.保存后不使用notepad.exe打开
+
 V0.5 Build2006.5.9
 1.增加了选项页的多项配置参数及参数的自动保存与读入
 2.增加了字幕合并结果按选项决定是否自动并行
