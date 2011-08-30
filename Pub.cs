@@ -50,7 +50,7 @@ namespace Subindex
 
 		private static OpenFileDialog openbox;
 		private static string stmp;
-		public static string copyRight="-1\r\n00:00:00,000 --> 00:00:05,000\r\nSubindex build by Linnet\r\nhttp://linnet.126.com  http://blog.csdn.net/redbirdli\r\n";
+		//public static string copyRight="-1\r\n00:00:00,000 --> 00:00:05,000\r\nSubindex build by Linnet\r\nhttp://linnet.126.com  http://blog.csdn.net/redbirdli\r\n";
 		//public static Section copyRight
 
 		static  Pub()
@@ -242,7 +242,8 @@ namespace Subindex
 						goto case SaveDoType.View;
 					break;
 				case SaveDoType.View:
-					System.Diagnostics.Process.Start("notepad.exe",FileName);
+					//System.Diagnostics.Process.Start("notepad.exe",FileName);
+					System.Diagnostics.Process.Start(FileName);
 					break;
 			}
 
@@ -251,8 +252,8 @@ namespace Subindex
 
 		private static string Loging(string FileBuffer)
 		{
-			if (KeepLog)
-					FileBuffer=copyRight+GetSetting("Subind")+Limit+"Created time "+System.DateTime.Now.ToString("yy.MM.dd HH:mm:ss")+Limit+Limit+FileBuffer;
+			//if (KeepLog)
+					//FileBuffer=copyRight+GetSetting("Subind")+Limit+"Created time "+System.DateTime.Now.ToString("yy.MM.dd HH:mm:ss")+Limit+Limit+FileBuffer;
 			return FileBuffer;
 		}
 
