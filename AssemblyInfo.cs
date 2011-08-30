@@ -6,12 +6,12 @@ using System.Runtime.CompilerServices;
 // 属性集控制的。更改这些属性值可修改与程序集
 // 关联的信息。
 //
-[assembly: AssemblyTitle("Subindex")]
+[assembly: AssemblyTitle("Subindex Mod")]
 [assembly: AssemblyDescription("Srt/Ssa/Ass Subtitles Tool")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("FireBird Studio")]
-[assembly: AssemblyProduct("SubindexV0.5.10")]
-[assembly: AssemblyCopyright("Author: Linnet li")]
+[assembly: AssemblyCompany("Rufus")]
+[assembly: AssemblyProduct("Subindex ModV0.5.1")]
+[assembly: AssemblyCopyright("Author: Rufus")]
 [assembly: AssemblyTrademark("Subindex")]
 [assembly: AssemblyCulture("")]		
 
@@ -26,7 +26,7 @@ using System.Runtime.CompilerServices;
 // 您可以指定所有这些值，也可以使用“修订号”和“内部版本号”的默认值，方法是按
 // 如下所示使用 '*':
 
-[assembly: AssemblyVersion("0.5.0.50509")]
+[assembly: AssemblyVersion("0.5.1.10831")]
 
 //
 // 要对程序集进行签名，必须指定要使用的密钥。有关程序集签名的更多信息，请参考 
