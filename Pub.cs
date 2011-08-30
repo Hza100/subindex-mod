@@ -51,6 +51,7 @@ namespace Subindex
 		private static OpenFileDialog openbox;
 		private static string stmp;
 		//public static string copyRight="-1\r\n00:00:00,000 --> 00:00:05,000\r\nSubindex build by Linnet\r\nhttp://linnet.126.com  http://blog.csdn.net/redbirdli\r\n";
+        public static string copyRight = "";
 		//public static Section copyRight
 
 		static  Pub()
